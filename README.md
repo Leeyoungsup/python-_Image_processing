@@ -1,2 +1,2 @@
 # python _Image_processing
- 영상처리(수학적 부분)
+for understand the mathematical content
